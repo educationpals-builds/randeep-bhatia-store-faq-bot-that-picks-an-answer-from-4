@@ -1,0 +1,1 @@
+Your run compiles into a live routine and a public repo. A stranger points it at their own tool and gets your discipline applied to their case: the five checks walked, your standing rule enforced, the alarm set. Every shipped file opens on the tool you named, not a demo.
