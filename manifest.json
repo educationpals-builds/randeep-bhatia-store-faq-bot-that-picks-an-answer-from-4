@@ -1,0 +1,60 @@
+{
+  "verificationToken": "01KZFHRT0YWKM9TSP0K6XSCMA9",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "f08a37ef-1040-5bf3-b80c-7b920f5c9251",
+  "templateId": "baw_c002_ch05",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/scenario-auditor.md",
+      "path": "blueprints/scenario-auditor.md"
+    },
+    {
+      "id": "prompts/check-walk-pack.md",
+      "path": "prompts/check-walk-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    },
+    {
+      "id": "specs/scenario-audit.spec.json",
+      "path": "specs/scenario-audit.spec.json.md"
+    },
+    {
+      "id": "specs/measurements.md",
+      "path": "specs/measurements.md"
+    },
+    {
+      "id": "analyzer/scenario-analyzer.md",
+      "path": "analyzer/scenario-analyzer.md"
+    },
+    {
+      "id": "runs/review-cycle-01.md",
+      "path": "runs/review-cycle-01.md"
+    },
+    {
+      "id": "exports/sample-asks.md",
+      "path": "exports/sample-asks.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-08-08T02:03:28.670Z",
+  "compositionMode": "shipgen"
+}
